@@ -1,8 +1,11 @@
 # Logistic Regression
 
 This project consists of classification on the basis of following and their mutual comparision:
+
 Binary Classification Using Logistic Regression
+
 Binary Classification Using L1-penalized logistic regression
+
 Multi-class Classification (Gaussian and Multi- nomial priors, Na ̈ıve Bayes’ classifier)
 
 Classification of time series
